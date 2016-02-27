@@ -1,0 +1,108 @@
+/* CSS Document */
+
+body {
+	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+p {text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 1.5px;
+
+}
+#logo{
+	width: 35%;
+	margin-top: 4px;
+	font-family: Arial;
+	display: inline-block;
+	
+}
+h1 {
+	text-align:center;
+	font-weight:bolder;
+}
+h2 {
+	text-align:center;
+	font-weight:normal;
+}
+h3 {
+	text-align:center;
+	font-style:normal;
+}
+p one {
+	font-size:18px;
+	text-decoration:none;
+	letter-spacing:0.2em;
+	word-spacing:normal;
+}
+
+p two{ font-size:16px;
+font-weight:bold;
+line-height: 1.1em;
+	margin: 0 0 .5em 0;
+	letter-spacing:0.2em;
+	word-spacing:normal;
+}
+
+p three{font-size:16px;
+line-height: 1.1em;
+	margin: 0 0 .5em 0;
+	letter-spacing:0.2em;
+	word-spacing:normal;
+}
+
+
+h1 {background-color:#90D8E5;
+}
+body{background-color:#11C8F3;
+}
+body{background-image:url(../download.jpg);
+}
+p.one {
+    border: 1px solid #1FD8D5;
+    background-color: #2154D6;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+	letter-spacing:0.2em;
+	word-spacing:normal;
+}
+p.two {
+    border:1px solid #2344C4;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+	letter-spacing:0.2em;
+	word-spacing:normal;
+}
+p.bx {text-indent:hanging;
+text-decoration:line-through;
+text-transform:none;
+}
+ul.a {
+    list-style-type: circle;
+}
+
+ul.b {
+    list-style-type: square;
+}
+div > p {
+    background-color: yellow;
+}
+div.ex > p {
+    background-color: yellow;
+}
+div.fx {text-align:center;
+font-size:24px;
+text-decoration:underline;
+
+}
+nav{border:3px solid #2344C4;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+	letter-spacing:normal;
+	word-spacing:normal;
+}
+	
